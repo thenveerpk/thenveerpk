@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python(Machine Learning)**
 
-- 👨‍💻 All of my projects are available at [https://thenveerpk.github.io/Portfolio/](https://thenveerpk.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://thenveerpk.github.io/Portfolio/)
 
 - 📫 How to reach me **thanveerpk912@gmail.com**
 
